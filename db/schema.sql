@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS stock_ness_db;
-CREATE DATABASE stock_ness_db;
+DROP DATABASE IF EXISTS stock_ness_test_db;
+CREATE DATABASE stock_ness_test_db;
